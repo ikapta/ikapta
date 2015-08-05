@@ -1,0 +1,3 @@
+# chaoobg
+
+## use hexo blog
