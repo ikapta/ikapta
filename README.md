@@ -11,7 +11,7 @@ The website for Hexo. You can see the generated files at [hexojs/hexojs.github.i
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/hexojs/site.git
+$ git clone https://github.com/chanzig/chaoobg.git
 $ cd site
 $ npm install
 ```
