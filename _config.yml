@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: chaoo
-subtitle:
-description:
+title: kapta的博客
+subtitle: 三次元走不出去
+description: 伪攻城师一枚
 author: kapta
 language: zh-CN
 timezone: 
+email: kapta.fu@outlook.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -78,3 +79,6 @@ deploy:
   ##branch: master
   repository: git@github.com:chanzig/chanzig.github.io.git
   branch: master
+  
+  #duoshuo
+  duoshuo_shortname: 
