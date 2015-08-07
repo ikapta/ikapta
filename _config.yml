@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: yilia
 stylus:
   compress: true
 
@@ -76,3 +76,5 @@ deploy:
  ## branch: gitcafe-pages
   ##repository: https://github.com/chanzig/chaoobg.git
   ##branch: master
+  repository: git@github.com:chanzig/chanzig.github.io.git
+  branch: master
