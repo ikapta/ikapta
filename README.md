@@ -4,7 +4,7 @@
 The website for chaoobg. You can see the generated files at [project-chanzig.github.io](https://github.com/chanzig/chanzig.github.io) repository
 
 selfsite href goto: [chanzig.github.io](https://chanzig.github.io) or
-[fuchaoo.com](http://www.fuchaoo.com)
+[kapta.me](http://www.kapta.me)
 
 [![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
 
