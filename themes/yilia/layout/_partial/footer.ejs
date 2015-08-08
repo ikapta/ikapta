@@ -16,12 +16,13 @@
                   document.body.appendChild(hjs);
               },100);
               function async(data){
-                 $('#hitokoto1').text(data.hitokoto);
+                $('.header-subtitle').text(data.hitokoto);
+                // $('#hitokoto1').text(data.hitokoto);
               }
+              async()
          </script>
 
-        <div ><span id="hitokoto1"></span><script>async()</script></div>
-          
+        <div ><span id="hitokoto1"></span></div>
       		<!--<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten-->
       	</div>
     </div>
