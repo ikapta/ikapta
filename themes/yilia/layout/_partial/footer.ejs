@@ -17,6 +17,7 @@
               },100);
               function async(data){
                 $('.header-subtitle').text(data.hitokoto);
+                $('.header-subtitle').prop('title',data.hitokoto);
                 // $('#hitokoto1').text(data.hitokoto);
               }
               async()

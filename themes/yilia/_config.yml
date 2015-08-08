@@ -8,9 +8,11 @@ menu:
 subnav:
   github: "https://github.com/chanzig"
   weibo: "http://weibo.com/338944949"
+  csdn: "http://blog.csdn.net/chanzig"
+  segment: "http://segmentfault.com/u/kapta"
   alipay: "javascript:void(0)"
   #rss: "http://feedburner.google.com"
-  csdn: "http://blog.csdn.net/chanzig"
+  
   wechat: "javascript:void(0)"
   zhihu: "http://zhihu.com/people/kapta"
   douban: "http://www.douban.com/people/chanzig/"
