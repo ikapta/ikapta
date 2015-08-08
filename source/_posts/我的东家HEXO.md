@@ -78,6 +78,24 @@ git push -u origin master
 * 代码高亮黑色背景类似`subline`，太晃眼了还是喜欢浅色的类似`github,segment`的`markdown`标记，还有行内代码也不太美观，有时间给修修；
 * 自动文章目录导航也被去掉了，不喜欢，得自己动手加上去了，其实主题[Jacman][6]就挺好的，就是没用`jquery.lazy.load`,少了点特效，头部的大背景可以改精致一点，右边的`tag分类`看起来相当low,稍作修改，完全可以非常实用；
 * 额外的，我把左边的二级标题换成[一言][3]了，纯属个人娱乐，每次刷新页面都会请求一次换一言；
+* 还有一个问题，只有一篇文章的情况下，不显示`share按钮组` 和 `duoshuo评论` `!index`是不是歧义了，不细究了，再写一篇就没问题了
+<pre>  
+      <% if (!index){ %>
+        <%- partial('post/nav') %>
+      <% } %>
+
+    <% if (!index && theme.share){ %>
+    <%- partial('post/share') %>
+    <% } %>
+    
+    <% if (!index && theme.duoshuo && post.comments){ %>
+    <%- partial('post/duoshuo', {
+        key: post.slug,
+        title: post.title,
+        url: config.url+url_for(post.path)
+      }) %>
+    <% } %>
+</pre>
 
 
 
