@@ -101,6 +101,27 @@ require([], function (){
 		}
 		
 	}
+
+	//是否使用sweetalert
+	if(true){
+		require(['js/sweetalert.min.js','http://cdn.bootcss.com/jquery.qrcode/1.0/jquery.qrcode.min.js'],function(){
+			document.querySelector('.wechat').onclick = function(){
+				swal({
+					title: "微信关注我*_*",
+					height:"450px",
+					//imageUrl: "img/MyImg.jpg",
+					confirmButtonText: "Thank You Sir",
+					text: "<div id=\"qrcode\"></div>",
+					html: true
+				},function(isConfirm){
+					if(isConfirm){}
+				}); //end swal
+				$('#qrcode').qrcode("http://weixin.qq.com/r/qevcxELE_x_ErQan9767");
+				$('.sweet-alert').css('margin-top','-275px')
+			};
+		})
+	}
+
 	
 	//是否新窗口打开链接
 	if(yiliaConfig.open_in_new == true){

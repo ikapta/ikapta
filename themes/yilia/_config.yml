@@ -32,6 +32,9 @@ fancybox: true
 # 是否开启动画效果
 animate: true
 
+#是否使用sweetalert
+sweetalert: true
+
 # 是否在新窗口打开链接
 open_in_new: false
 
