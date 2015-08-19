@@ -9,10 +9,16 @@ tags: [hexo,git]
 
 ## 安装过程
 如果本机安装了node 忽略下面一段
+
+
+
 ### 安装git 和 node
 这个就不介绍了，分别直接官网 [git][1] [node][5] 下载安装就好了，建议全局安装，不要逼格太高瞎折腾。其实也没啥关系，猿猿都爱折腾。
 #### 错误解决
-各种`npm`安装的插件对其操作命令过程中，如果系统提示没有这个命令，基本上不是需要update,就是没有全局安装，需要在系统路径下注册，即弄个环境变量。比如安装hexo`$ npm install -g hexo`发现`$ hexo -V`不好使，那就找到你安装hexo的根目录，copy路径，右键我的电脑<i class="fa fa-angle-right" />属性<i class="fa fa-angle-right" />高级系统设置<i class="fa fa-angle-right" /> 环境变量 <i class="fa fa-angle-right" /> 点开 **系统变量Path** 末尾添加类似路径C:\Program Files\nodejs\node_global。你就会发现你安装的插件都好用啦，比如`grunt hexo`
+// 各种`npm`安装的插件对其操作命令过程中，如果系统提示没有这个命令，基本上不是需要update,就是没有全局安装，需要在系统路径下注册，即弄个环境变量。比如安装hexo`$ npm install -g hexo`发现`$ hexo -V`不好使，那就找到你安装hexo的根目录，copy路径，右键我的电脑 > 属性 > 高级系统设置 > 环境变量 > 点开 **系统变量Path** 末尾添加类似路径C:\Program Files\nodejs\node_global。你就会发现你安装的插件都好用啦，比如`grunt` \ `hexo`
+
+<!-- more -->
+
 ### 主要安装步骤
 #### 安装hexo
 利用`npm`命令就能全局安装hexo
@@ -20,6 +26,7 @@ tags: [hexo,git]
  $ npm install hexo -g 
 ```
 然后你可以`hexo -V`查看版本，ok(如果命令不好使，移步上面的错误解决)
+
 #### 创建hexo文件夹
 在自己需要建立文件夹的磁盘新建文件夹，然后敲下面的命令
 ```bush
