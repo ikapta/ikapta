@@ -16,7 +16,7 @@ tips:**安装了插件后，更多快捷键，请在`F1`命令窗口中搜索**
 > Can I Use;
 > html preview : 快捷键 （ctrl+shit+H）
 > Markdown语法预览快捷键 ：ctrl +shift+v (toggle)
-> 主题切换：安装了主题文件后，`F1`中输入 `theme` 选择`color theme` 默认的主题和安装的都在了，上下键预览
+> 主题切换：安装了主题文件后，`F1`中输入 `theme` 选择`color theme` 默认的主题和安装的都在了，上下键预览,我使用了`github clean theme`,其实默认的也很棒
 
 
 语法提示的就在官网上找吧，不要太方便，尤其支持 `react` \ `angular`语法，就是没找到好用的`sass`提示，比如我调用了一个文件中的 `@mixin`或者变量，然后不能很好的提示，或者定位到它，这个非常不爽[`web storm`就可以]。
