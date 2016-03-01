@@ -12,14 +12,16 @@ tags:
 [官网][2] 的插件种类不要太详细！
 tips:**安装了插件后，更多快捷键，请在`F1`命令窗口中搜索**
 > js-css-HTML Formatter :代码格式化工具，快捷键（alt+shift+f）; 
-> Close HTML/XML tag :和Zen Coding 几乎一样了，大部分熟悉的操作装了它，都ok的;
+> [HTML CSS Class Completion][3]: 写html的时候可以快速的提示 class-name;
 > Can I Use;
 > html preview : 快捷键 （ctrl+shit+H）
 > Markdown语法预览快捷键 ：ctrl +shift+v (toggle)
-> 主题切换：安装了主题文件后，`F1`中输入 `theme` 选择`color theme` 默认的主题和安装的都在了，上下键预览,我使用了`github clean theme`,其实默认的也很棒
+> 主题切换：安装了主题文件后，`F1`中输入 `theme` 选择`color theme` 默认的主题和安装的都在了，上下键预览,其实默认的也很棒
+
 
 
 语法提示的就在官网上找吧，不要太方便，尤其支持 `react` \ `angular`语法，就是没找到好用的`sass`提示，比如我调用了一个文件中的 `@mixin`或者变量，然后不能很好的提示，或者定位到它，这个非常不爽[`web storm`就可以]。
 
   [1]: /2015/08/09/use-subline-text3/
   [2]: https://marketplace.visualstudio.com/#VSCode
+  [3]: https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
