@@ -12,7 +12,7 @@ tags: [tools,vscode]
 [官网][2] 的插件种类不要太详细！
 tips:**安装了插件后，更多快捷键，请在`F1`命令窗口中搜索**
 > js-css-HTML Formatter :代码格式化工具，快捷键（alt+shift+f）;
-> [Beatity][5] :同样的代码格式化工具，但是没有快捷键，每次都是在控制台中输入 `Beautity` 命令，和上面格式化的效果有点不一样，看个人喜好，暂时发现他的`css`格式化更完美一点，并列的逗号写法会换行显示
+> [Beatity][5] :同样的代码格式化工具，但是没有快捷键，每次都是在控制台中输入 `Beautity` 命令，和上面格式化的效果有点不一样，看个人喜好，使用中暂时发现他的`css`格式化更完美一点，并列的逗号写法会换行显示;以及html文件格式化更准确
 > [HTML CSS Class Completion][3]: 写html的时候可以快速的提示 class-name;
 > Can I Use;
 > html preview : 快捷键 （ctrl+shit+H）
