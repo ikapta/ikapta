@@ -22,6 +22,8 @@ tips:**安装了插件后，更多快捷键，请在`F1`命令窗口中搜索**
 
 语法提示的就在官网上找吧，不要太方便，尤其支持 `react` \ `angular`语法，就是没找到好用的`sass`提示，比如我调用了一个文件中的 `@mixin`或者变量，然后不能很好的提示，或者定位到它，这个非常不爽[`web storm`就可以]。
 
+**[基于typescript或者javascript 完全可以自己动手写一个扩展][4]**
   [1]: /2015/08/09/use-subline-text3/
   [2]: https://marketplace.visualstudio.com/#VSCode
   [3]: https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+  [4]: https://code.visualstudio.com/docs/extensions/example-hello-world
