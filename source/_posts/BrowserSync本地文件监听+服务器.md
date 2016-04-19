@@ -34,7 +34,8 @@ tags: [borwser-sync,glup,sts]
 此处只介绍 `browser-sync` 如何运行在本地，然后通过其他设备访问本地文件。其他各种命令移步非常详细的 
 [官方中文文档][6]
 
-> sts 是有一个轻量级的`static`服务器,
+> sts 是有一个轻量级的`static`服务器
+
     npm install -g sts 
     启动 -> cmd进入文件夹目录 -> sts 8081 ->(端口号自定义)
 
