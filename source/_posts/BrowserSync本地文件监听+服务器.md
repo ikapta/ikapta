@@ -1,6 +1,6 @@
-title: BrowserSync本地文件监听+服务器
+title: BrowserSync本地文件监听+服务器 || sts
 date: 2016-03-07 01:38:37
-tags: [borwser-sync,glup]
+tags: [borwser-sync,glup,sts]
 ---
 这是一款非常棒的基于`node`的插件，可以监听文件和当做本地服务器。
 ###应用场合 -- 手机调试访问（同一局域网）
@@ -33,6 +33,10 @@ tags: [borwser-sync,glup]
 
 此处只介绍 `browser-sync` 如何运行在本地，然后通过其他设备访问本地文件。其他各种命令移步非常详细的 
 [官方中文文档][6]
+
+> sts 是有一个轻量级的`static`服务器,
+    npm install -g sts 
+    启动 -> cmd进入文件夹目录 -> sts 8081 ->(端口号自定义)
 
 
   [1]: http://pan.baidu.com/s/1i4ju7GT
