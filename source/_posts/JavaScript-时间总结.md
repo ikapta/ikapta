@@ -2,7 +2,7 @@ title: JavaScript 时间总结
 date: 2016-05-09 14:04:51
 tags: [JavaScript时间]
 ---
-##获取当前时间 - 时间戳(毫秒)
+## 获取当前时间 - 时间戳(毫秒)
 ```
 var now =new Date();
 now = now.getFullYear() + "/" + (now.getMonth() + 1) + "/" + now.getDate() + ' ' +now.getHours()+':'+now.getMinutes();  //2016/5/8 23:59
@@ -23,7 +23,7 @@ var myStamp= Date.parse( new Date('2016/5/8') ); //此处时间是字符串  146
 
 ** Date.parse()函数的返回值为 Number类型，返回该字符串所表示的日期与 1970 年 1 月 1 日午夜之间相差的毫秒数。
 ```
-##计算相差天数
+## 计算相差天数
 <!-- more -->
 ```
  function dayDiff(s2,s1){
@@ -35,7 +35,7 @@ var myStamp= Date.parse( new Date('2016/5/8') ); //此处时间是字符串  146
     }
 ```
 
-###functions
+### functions
 ```
 
         /**
