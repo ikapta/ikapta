@@ -1,7 +1,8 @@
-title: '''html5响应式开发'''
+title: html5响应式开发
 date: 2016-05-12 11:01:59
-tags:[rem,viewport]
+tags: [rem,viewport]
 ---
+
 拜读腾讯的ISUX 文章 [web app变革之rem][1]，结合实际开发，造个简单的轮子。
 
 ## ViewPort篇
