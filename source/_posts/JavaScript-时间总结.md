@@ -110,3 +110,55 @@ var myStamp= Date.parse( new Date('2016/5/8') ); //此处时间是字符串  146
                     return Date.parse(date2) - Date.parse(date1);
                 });
 ```
+## 超级笨的倒计时
+ ```
+ function fomtime() {
+        var html = '';
+        var now_dt = new Date().getTime();
+        var beg_dt = new Date('2016/07/09 00:00:00').getTime();
+        var end_dt = new Date('2016/07/10 23:59:59').getTime();
+        if (now_dt < beg_dt || now_dt > end_dt) {
+            $('.timeday').text('00');
+            $('.timehour').text('00');
+            $('.timeminu').text('00');
+            $('.timesec').text('00');
+        }
+
+        if (now_dt >= beg_dt && now_dt < end_dt) {
+            var curminus = new Date(end_dt - now_dt).getTime();
+
+            var day = Math.floor(curminus / (1000 * 60 * 60 * 24));
+            var day1 = day * (1000 * 60 * 60 * 24);
+            if (day < 10) {
+                day = '0' + day;
+            }
+            var hours = Math.floor((curminus-day1) / (1000 * 60 * 60))
+            var hours1= hours *1000 * 60 * 60;
+            if (hours < 10) {
+                hours = '0' + hours;
+            }
+
+            var minutes =  Math.floor((curminus-day1-hours1) / (1000 * 60));
+            var minutes1=minutes *1000 * 60;
+            if (minutes < 10) {
+                minutes = '0' + minutes;
+            }
+            var second = Math.floor((curminus-day1-hours1-minutes1) /1000);
+
+            if (second < 10) {
+                second = '0' + second;
+            }
+
+            $('.timeday').text(day);
+            $('.timehour').text(hours);
+            $('.timeminu').text(minutes);
+            $('.timesec').text(second);
+        }
+
+        setTimeout(function(){
+            fomtime()
+        }, 1000);
+    }
+
+ ```
+ 需要注意的是在`safrai`中不支持时间的格式为`2016-07-09 00:00`这样带横线的，一定要replace(/-/g,'/');
