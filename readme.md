@@ -10,11 +10,11 @@ I'm a passionate FrontEnd developer.
 
 - 📈 Has recently been work with react frame [mantine](https://github.com/mantinedev/mantine), go frame [fiber](https://github.com/gofiber/fiber)
 
-- 💬 Ask me about anything [Here](<kapta.fu@outlook.com>)
+- 💬 Ask me about anything [Here](kapta.fu@outlook.com)
 
 ## &#x1f4c8; GitHub Stats
 
-| <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian" /></a> |
+| <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css" /></a> |
 | ------------- | ------------- |
 
 <p>
