@@ -1,38 +1,25 @@
-# chaoobg
+<br />
 
+I'm a passionate FrontEnd developer.
 
-The website for chaoobg. You can see the generated files at [project-chanzig.github.io](https://github.com/chanzig/chanzig.github.io) repository
+**About me**
 
-selfsite href goto: [chanzig.github.io](https://chanzig.github.io) or
-[kapta.me](http://www.kapta.me)
+- 💼 FrontEnd Engineer at [CarbonNewture](https://www.carbonnt.com/)
 
-[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
+- ❤️ I love writing [TypeScript](https://github.com/type-challenges/type-challenges), [Go](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/), Node, Java
 
-The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+- 📈 Has recently been work with react frame [mantine](https://github.com/mantinedev/mantine), go frame [fiber](https://github.com/gofiber/fiber)
 
-## Getting started
+- 💬 Ask me about anything [Here](<kapta.fu@outlook.com>)
 
-Install dependencies:
+## &#x1f4c8; GitHub Stats
 
-``` bash
-$ git clone https://github.com/chanzig/chaoobg.git
-$ npm install
-```
+| <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian" /></a> |
+| ------------- | ------------- |
 
-Generate:
+<p>
+  <a href="https://activity-graph.herokuapp.com/graph?username=ikapta&custom_title=ikapta's%20Activity%20Graph&theme=github&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ikapta&custom_title=George's%20Activity%20Graph&theme=github&hide_border=true">
+  </a>
+</p>
 
-``` bash
-$ hexo generate
-```
-
-Run server:
-
-``` bash
-$ hexo server
-```
-
-## Contributors
-
-- English - [tommy351]
-- 正體中文 - [tommy351]
-- 简体中文 - [pinggod]
