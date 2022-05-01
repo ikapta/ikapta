@@ -1,4 +1,3 @@
-<br />
 
 I'm a passionate FrontEnd developer.
 
