@@ -13,6 +13,6 @@ I'm a passionate FrontEnd developer.
 
 **GitHub Stats**
 
-| <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css" /></a> |
+| <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css,Stylus"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css,Stylus" /></a> |
 | ------------- | ------------- |
 
