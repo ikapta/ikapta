@@ -11,7 +11,7 @@ I'm a passionate FrontEnd developer.
 
 - 💬 Ask me about anything with <kapta.fu@outlook.com>
 
-## &#x1f4c8; GitHub Stats
+**GitHub Stats**
 
 | <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css" /></a> |
 | ------------- | ------------- |
