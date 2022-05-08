@@ -9,7 +9,7 @@ I'm a passionate FrontEnd developer.
 
 - 📈 Has recently been work with react frame [mantine](https://github.com/mantinedev/mantine), go frame [fiber](https://github.com/gofiber/fiber)
 
-- 💬 Ask me about anything with <kapta.fu@foxmail.com>
+- 💬 Ask me about anything with <kapta.fu@petalmail.com>
 
 **GitHub Stats**
 
