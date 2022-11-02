@@ -16,3 +16,4 @@ I'm a passionate FrontEnd developer.
 | <a href="https://github.com/ikapta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikapta&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="Kapta's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css,Stylus"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikapta&layout=compact&theme=prussian&hide=javascript,html,css,Stylus" /></a> |
 | ------------- | ------------- |
 
+![](https://visitor-badge.glitch.me/badge?page_id=ikapta.ikapta)
